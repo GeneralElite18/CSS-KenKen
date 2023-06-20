@@ -41,6 +41,7 @@ html {
 }
 
 .grid-items{
+  position: relative;
   border: 0.1rem solid gray;
   font-size: 2rem;
   background-color: white;
